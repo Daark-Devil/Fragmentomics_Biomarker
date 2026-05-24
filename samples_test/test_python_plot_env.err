@@ -1,0 +1,122 @@
+Using default tag: latest
+latest: Pulling from jupyter/scipy-notebook
+aece8493d397: Pulling fs layer
+fd92c719666c: Pulling fs layer
+088f11eb1e74: Pulling fs layer
+4f4fb700ef54: Pulling fs layer
+ef8373d600b0: Pulling fs layer
+77e45ee945dc: Pulling fs layer
+a30f89a0af6c: Pulling fs layer
+dc42adc7eb73: Pulling fs layer
+abaa8376a650: Pulling fs layer
+aa099bb9e49a: Pulling fs layer
+822c4cbcf6a6: Pulling fs layer
+d25166dcdc7b: Pulling fs layer
+964fc3e4ff9f: Pulling fs layer
+2c4c69587ee4: Pulling fs layer
+de2cdd875fa8: Pulling fs layer
+75d33599f5f2: Pulling fs layer
+31973ea82470: Pulling fs layer
+96ee7e4439c7: Pulling fs layer
+1f9ad23c07ac: Pulling fs layer
+d19266e0cb17: Pulling fs layer
+9a165b6e9dc7: Pulling fs layer
+5689442fd4e1: Pulling fs layer
+9a6a202f62a6: Pulling fs layer
+734ea0c3d94e: Pulling fs layer
+a21a167f7127: Pulling fs layer
+2c4c69587ee4: Waiting
+de2cdd875fa8: Waiting
+75d33599f5f2: Waiting
+31973ea82470: Waiting
+96ee7e4439c7: Waiting
+1f9ad23c07ac: Waiting
+d19266e0cb17: Waiting
+4f4fb700ef54: Waiting
+9a165b6e9dc7: Waiting
+5689442fd4e1: Waiting
+ef8373d600b0: Waiting
+77e45ee945dc: Waiting
+a30f89a0af6c: Waiting
+9a6a202f62a6: Waiting
+dc42adc7eb73: Waiting
+734ea0c3d94e: Waiting
+a21a167f7127: Waiting
+abaa8376a650: Waiting
+aa099bb9e49a: Waiting
+822c4cbcf6a6: Waiting
+964fc3e4ff9f: Waiting
+d25166dcdc7b: Waiting
+088f11eb1e74: Verifying Checksum
+088f11eb1e74: Download complete
+fd92c719666c: Verifying Checksum
+fd92c719666c: Download complete
+aece8493d397: Verifying Checksum
+aece8493d397: Download complete
+4f4fb700ef54: Verifying Checksum
+4f4fb700ef54: Download complete
+ef8373d600b0: Verifying Checksum
+ef8373d600b0: Download complete
+dc42adc7eb73: Verifying Checksum
+dc42adc7eb73: Download complete
+a30f89a0af6c: Verifying Checksum
+a30f89a0af6c: Download complete
+77e45ee945dc: Verifying Checksum
+77e45ee945dc: Download complete
+822c4cbcf6a6: Verifying Checksum
+822c4cbcf6a6: Download complete
+aa099bb9e49a: Verifying Checksum
+aa099bb9e49a: Download complete
+d25166dcdc7b: Download complete
+abaa8376a650: Verifying Checksum
+abaa8376a650: Download complete
+2c4c69587ee4: Download complete
+de2cdd875fa8: Verifying Checksum
+de2cdd875fa8: Download complete
+964fc3e4ff9f: Download complete
+75d33599f5f2: Verifying Checksum
+75d33599f5f2: Download complete
+96ee7e4439c7: Download complete
+d19266e0cb17: Verifying Checksum
+d19266e0cb17: Download complete
+1f9ad23c07ac: Verifying Checksum
+aece8493d397: Pull complete
+5689442fd4e1: Download complete
+31973ea82470: Verifying Checksum
+31973ea82470: Download complete
+fd92c719666c: Pull complete
+088f11eb1e74: Pull complete
+734ea0c3d94e: Verifying Checksum
+734ea0c3d94e: Download complete
+4f4fb700ef54: Pull complete
+ef8373d600b0: Pull complete
+77e45ee945dc: Pull complete
+a30f89a0af6c: Pull complete
+a21a167f7127: Verifying Checksum
+a21a167f7127: Download complete
+dc42adc7eb73: Pull complete
+9a165b6e9dc7: Verifying Checksum
+9a165b6e9dc7: Download complete
+9a6a202f62a6: Verifying Checksum
+9a6a202f62a6: Download complete
+abaa8376a650: Pull complete
+aa099bb9e49a: Pull complete
+822c4cbcf6a6: Pull complete
+d25166dcdc7b: Pull complete
+964fc3e4ff9f: Pull complete
+2c4c69587ee4: Pull complete
+de2cdd875fa8: Pull complete
+75d33599f5f2: Pull complete
+31973ea82470: Pull complete
+96ee7e4439c7: Pull complete
+1f9ad23c07ac: Pull complete
+d19266e0cb17: Pull complete
+9a165b6e9dc7: Pull complete
+5689442fd4e1: Pull complete
+9a6a202f62a6: Pull complete
+734ea0c3d94e: Pull complete
+a21a167f7127: Pull complete
+Digest: sha256:fca4bcc9cbd49d9a15e0e4df6c666adf17776c950da9fa94a4f0a045d5c4ad33
+Status: Downloaded newer image for jupyter/scipy-notebook:latest
+docker.io/jupyter/scipy-notebook:latest
+/home/devansh/.lsbatch/1775244950.192966: 8: scripts/test_python_plot_env.sh: Permission denied

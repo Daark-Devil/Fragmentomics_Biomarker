@@ -1,0 +1,43 @@
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@compute1-exec-166.ris.wustl.edu>
+Subject: Job 192966: <scripts/test_python_plot_env.sh> in cluster <compute1-lsf> Exited
+
+Job <scripts/test_python_plot_env.sh> was submitted from host <compute1-client-1.ris.wustl.edu> by user <devansh> in cluster <compute1-lsf> at Fri Apr  3 14:35:50 2026
+Job was executed on host(s) <compute1-exec-166.ris.wustl.edu>, in queue <general>, as user <devansh> in cluster <compute1-lsf> at Fri Apr  3 14:55:22 2026
+</home/devansh> was used as the home directory.
+</storage1/fs1/christophermaher/Active/maherlab/devansh/fragmentomics> was used as the working directory.
+Started at Fri Apr  3 14:55:22 2026
+Terminated at Fri Apr  3 14:57:13 2026
+Results reported at Fri Apr  3 14:57:13 2026
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+scripts/test_python_plot_env.sh
+------------------------------------------------------------
+
+Exited with exit code 126.
+
+Resource usage summary:
+
+    CPU time :                                   10.41 sec.
+    Max Memory :                                 15 MB
+    Average Memory :                             12.86 MB
+    Total Requested Memory :                     4096.00 MB
+    Delta Memory :                               4081.00 MB
+    Max Swap :                                   -
+    Max Processes :                              5
+    Max Threads :                                14
+    Run time :                                   112 sec.
+    Turnaround time :                            1283 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <logs/test_python_plot_env.err> for stderr output of this job.
+
