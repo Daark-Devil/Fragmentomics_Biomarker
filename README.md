@@ -3,7 +3,9 @@
 This repository contains workflows, scripts, validation examples, and representative results used for fragmentomics analysis of cell-free DNA (cfDNA) from Whole Genome Sequencing (WGS) datasets.
 
 The project focuses on identifying fragmentation patterns, fragment-length distributions, and end-motif signatures associated with healthy and cancer samples. The workflow was developed and executed on the Washington University Compute1 HPC environment using large-scale sequencing datasets and cohort-level analyses.
+https://github.com/Daark-Devil/Fragmentomics_Biomarker/blob/main/Doc/fragmentomics_detailed_pipeline.svg
 
+https://github.com/Daark-Devil/Fragmentomics_Biomarker/blob/main/Doc/fragmentomics_compact_summary.svg
 ---
 # Key Outcomes
 
