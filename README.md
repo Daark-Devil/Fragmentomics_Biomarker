@@ -5,7 +5,14 @@ This repository contains workflows, scripts, validation examples, and representa
 The project focuses on identifying fragmentation patterns, fragment-length distributions, and end-motif signatures associated with healthy and cancer samples. The workflow was developed and executed on the Washington University Compute1 HPC environment using large-scale sequencing datasets and cohort-level analyses.
 
 ---
+# Key Outcomes
 
+  Built FASTQ-to-BAM WGS processing workflow.
+  Extracted TLEN-based fragment lengths from BAM files.
+  Compared healthy and cancer fragment-length distributions.
+  Added 4-mer and 5-mer end-motif analysis.
+  Built EDTA-vs-Streck and healthy-vs-cancer comparison outputs.
+  Generated interactive dashboard with statistical summaries.
 # Project Overview
 
 Cell-free DNA fragmentomics has emerged as a powerful approach for studying biological processes and disease-associated signatures. Differences in fragment lengths and end-motif patterns can provide information about chromatin organization, tissue origin, and disease status.
@@ -23,7 +30,8 @@ The primary goals of this project were:
 - Generate publication-style visualizations and summary statistics
 
 ---
-
+# Interactive Dashboard and Statistical Interpretation
+“The repository includes an interactive EDTA WGS 5-mer fragmentomics dashboard for healthy-vs-cancer comparison. It summarizes motif abundance, fragment-length density, cancer-minus-healthy difference curves, fragment category shifts, Cohen’s d, binned KS distance, mean/median/Q1/Q3, and cohort-level motif comparisons(https://github.com/Daark-Devil/Fragmentomics_Biomarker/blob/main/Doc/edta_wgs_5mer_fragmentomics_dashboard_v3.html).”
 # Workflow
 
 ```text
