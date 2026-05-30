@@ -20,6 +20,15 @@ https://github.com/Daark-Devil/Fragmentomics_Biomarker/blob/main/Doc/fragmentomi
   Built EDTA-vs-Streck and healthy-vs-cancer comparison outputs.
   
   Generated interactive dashboard with statistical summaries.
+
+  # Main Findings
+
+- Cancer and healthy cfDNA samples exhibited distinct fragmentation patterns and end-motif profiles.
+- Cohort-level fragment-length distributions were compared using WGS-derived cfDNA data and found both Cancer and Healthy has diffrent significant patterns, which varies over Cohorts.
+- 4-mer and 5-mer end-motif analyses identified differences in terminal sequence composition between cohorts.
+- Interactive dashboards were generated to visualize fragment lengths, motif frequencies, and statistical summaries.
+- The workflow was validated using representative samples and scaled to cohort-level analyses on HPC infrastructure.
+  
 # Project Overview
 
 Cell-free DNA fragmentomics has emerged as a powerful approach for studying biological processes and disease-associated signatures. Differences in fragment lengths and end-motif patterns can provide information about chromatin organization, tissue origin, and disease status.
