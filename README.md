@@ -8,10 +8,15 @@ The project focuses on identifying fragmentation patterns, fragment-length distr
 # Key Outcomes
 
   Built FASTQ-to-BAM WGS processing workflow.
+  
   Extracted TLEN-based fragment lengths from BAM files.
+  
   Compared healthy and cancer fragment-length distributions.
+
   Added 4-mer and 5-mer end-motif analysis.
+  
   Built EDTA-vs-Streck and healthy-vs-cancer comparison outputs.
+  
   Generated interactive dashboard with statistical summaries.
 # Project Overview
 
